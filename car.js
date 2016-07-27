@@ -1,4 +1,4 @@
-
+'use strict';
 
 var Car = function (mpg) {
 };

@@ -1,3 +1,5 @@
+'use strict';
+
 var Car = require('../car');
 
 describe('Car', function() {
